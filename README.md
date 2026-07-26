@@ -183,4 +183,4 @@ Expected: `HTTP/1.1 200 OK`
 
 ## Author
 
-**Dan-jiw** · [GitHub](https://github.com/Dan-jiw) · Available for freelance sysadmin work on [Upwork](https://upwork.com)
+**Dan-jiw** · [GitHub](https://github.com/Dan-jiw) · Available for freelance sysadmin work
