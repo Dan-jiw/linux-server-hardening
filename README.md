@@ -82,14 +82,14 @@ AllowUsers danylo
 systemctl restart sshd
 ```
 
-[SSH Status](screenshots/ssh.jpg)
+[SSH Status](screenshots/ssh_status.jpg)
 
 > ⚠️ Before logging out — open a second terminal and test the new connection:
 > `ssh -p 2222 danylo@YOUR_SERVER_IP`
 
 ---
 
-[Log in by SSH](screenshots/ssh.jpg)
+[Log in by SSH](screenshots/ssh_login.jpg)
 
 
 
