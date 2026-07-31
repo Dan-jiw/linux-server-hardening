@@ -1,4 +1,4 @@
-# linux-server-hardening
+<img width="706" height="197" alt="image" src="https://github.com/user-attachments/assets/5aea41a3-1130-44bd-a738-7f9cb416871c" /># linux-server-hardening
 
 A practical, step-by-step guide to hardening a fresh Ubuntu/Debian server.  
 Includes real configuration files and commands used in a home lab environment.
@@ -127,6 +127,8 @@ bantime  = 1h
 findtime = 10m
 ```
 
+[jail.local](screenshots/sshd_failt2ban.jpg)
+
 ```bash
 systemctl enable fail2ban
 systemctl restart fail2ban
@@ -167,6 +169,8 @@ curl -I http://localhost
 Expected: `HTTP/1.1 200 OK`
 
 ---
+
+[Nginx status](screenshots/nginx.jpg)
 
 ## Security checklist
 
