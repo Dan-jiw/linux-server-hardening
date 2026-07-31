@@ -107,6 +107,8 @@ ufw status verbose
 
 ---
 
+[UFW rules](screenshots/ufw.jpg)
+
 ## Step 5 — fail2ban
 
 ```bash
