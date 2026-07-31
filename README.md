@@ -1,4 +1,4 @@
-<img width="706" height="197" alt="image" src="https://github.com/user-attachments/assets/5aea41a3-1130-44bd-a738-7f9cb416871c" /># linux-server-hardening
+# linux-server-hardening
 
 A practical, step-by-step guide to hardening a fresh Ubuntu/Debian server.  
 Includes real configuration files and commands used in a home lab environment.
