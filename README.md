@@ -75,6 +75,8 @@ AllowUsers danylo
 
 ### 3.4 Restart SSH
 
+[SSH Status](screenshots/ssh.jpg)
+
 ```bash
 systemctl restart sshd
 ```
@@ -84,7 +86,7 @@ systemctl restart sshd
 
 ---
 
-[Alt text](screenshots/ssh.jpg)
+
 
 ## Step 4 — Firewall (ufw)
 
