@@ -73,18 +73,23 @@ X11Forwarding no
 AllowUsers danylo
 ```
 
+
+
 ### 3.4 Restart SSH
 
-[SSH Status](screenshots/ssh.jpg)
 
 ```bash
 systemctl restart sshd
 ```
 
+[SSH Status](screenshots/ssh.jpg)
+
 > ⚠️ Before logging out — open a second terminal and test the new connection:
 > `ssh -p 2222 danylo@YOUR_SERVER_IP`
 
 ---
+
+[Log in by SSH](screenshots/ssh.jpg)
 
 
 
