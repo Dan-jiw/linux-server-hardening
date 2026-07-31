@@ -84,6 +84,8 @@ systemctl restart sshd
 
 ---
 
+[Alt text](screenshots/ssh.jpg)
+
 ## Step 4 — Firewall (ufw)
 
 ```bash
